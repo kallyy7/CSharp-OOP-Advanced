@@ -1,6 +1,6 @@
 <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p>
 
-# <a href=""><p align="center"> C# OOP Basics <p></a>
+# <a href=""><p align="center"> C# OOP Advanced <p></a>
 
 ## PROGRAM
 <table>
