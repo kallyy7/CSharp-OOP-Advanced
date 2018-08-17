@@ -1,4 +1,4 @@
-﻿namespace _01.BoxOfT
+﻿namespace BoxOfT
 {
     using System.Collections.Generic;
     using System.Linq;
