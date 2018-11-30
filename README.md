@@ -3,7 +3,7 @@
 # <a href=""><p align="center"> C# OOP Advanced <p></a>
 
 ## PROGRAM
-<table>
+<table align="center">
 <tr>
   <th></th><th>Lection</th><th>Lab</th><th>Exercise</th>
 </tr>
